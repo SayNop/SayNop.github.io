@@ -1,3 +1,5 @@
 
 User-agent:*
 Disallow:
+
+Sitemap: https://saynop.github.io/sitemap.xml
